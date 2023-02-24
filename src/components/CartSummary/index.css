@@ -1,0 +1,24 @@
+.cart-summary-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.total-cart {
+  font-size: 20px;
+  color: black;
+}
+.price {
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+.checkout-button {
+  padding: 10px;
+  border: 0px;
+  background-color: blue;
+  border-radius: 10px;
+  outline: none;
+  color: white;
+}
